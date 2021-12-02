@@ -1,1 +1,1 @@
-install.packages(c("sf", "tmap", "cartogram"))
+install.packages(c("sf", "tmap", "cartogram", "tidyverse"))
