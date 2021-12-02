@@ -1,1 +1,1 @@
-install.packages(c("readr", "readxl", "dplyr", "lubridate", "sf", "tmap", "cartogram"))
+install.packages(c("sf", "tmap", "cartogram"))
