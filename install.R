@@ -1,9 +1,1 @@
-install.packages("readr")
-install.packages("readxl")
-
-install.packages("dplyr")
-install.packages("lubridate")
-
-install.packages("sf")
-install.packages("tmap")
-install.packages("cartogram")
+install.packages(c("readr", "readxl", "dplyr", "lubridate", "sf", "tmap", "cartogram"))
